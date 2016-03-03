@@ -358,15 +358,9 @@ UsedLibrary="/home/jorschiedt/Development/eagle/lbr/symbol.lbr"
 UsedLibrary="/home/jorschiedt/Development/eagle/external-lbr/adafruit-Adafruit-Eagle-Library-4abf84c/adafruit.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="66 25 1174 799"
-State=0
-Number=0
-
-[Win_2]
 Type="Schematic Editor"
-Loc="113 58 1563 932"
-State=2
+Loc="75 29 1525 903"
+State=0
 Number=1
 File="switchboard1.sch"
 View="-38.3931 -13.3504 119.492 121.734"
@@ -411,14 +405,14 @@ Layer=91
 Views=" 1: -38.3931 -13.3504 119.492 121.734"
 Sheet="1"
 
-[Win_3]
+[Win_2]
 Type="Board Editor"
-Loc="600 2 2750 1515"
-State=2
+Loc="0 0 1919 979"
+State=0
 Number=2
 File="switchboard1.brd"
-View="17.7798 9.6972 69.2102 63.3793"
-WireWidths=" 0 0.6096 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.127 0.254 0.8128"
+View="8.26299 -3.70818 59.6935 49.974"
+WireWidths=" 0 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.127 0.254"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
 ViaDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
@@ -455,10 +449,16 @@ SwapLevel=0
 ArcDirection=0
 AddLevel=2
 PadsSameType=0
-Layer=20
+Layer=1
+
+[Win_3]
+Type="Control Panel"
+Loc="44 7 1152 781"
+State=2
+Number=0
 
 [Desktop]
-Screen="2880 1620"
+Screen="3840 1080"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
