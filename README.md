@@ -18,10 +18,13 @@ By using larger values (180R) it may also be used as a 5V shield.
 
 #WARNING
 **The shield is designed to switch main power.** So you must care about proper isolation.  
-Don't use metal screws or bolds to fix the board - only use plastic ones!  
+Don't use metal nuts or bolds to fix the board - only use plastic ones!  
 For **inductive loads** (e.g. motors) either **connect a [snubber](https://www.google.de/?gws_rd=ssl#q=snubber+circuit)** (surge absorption) circuit as close as possible to the AC clamps or use a *S202S11*.
 
 ![](https://github.com/susisstrolch/PowerSwitchShield/blob/master/snubber.jpg)
 
 For AC current > 1A you should consider to use a heat sink (see datasheet "Fig.2 RMS ON-state Current vs. 
 Ambient Temperature")!
+
+[Sharp Documentation: Use of Solid State Relays (SSRs)](http://www.datasheetarchive.com/dlmain/SFDatasheet-3/sf-00061711.pdf)
+
