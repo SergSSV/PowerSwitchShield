@@ -7,10 +7,10 @@ a sub-board with three S202SE2.
 
 ![](https://github.com/susisstrolch/PowerSwitchShield/blob/master/26deed2d59c932266c655a1408c2c5e5-17641_top.png)
 
-Boards are available from [dirtypcbs.com:](http://dirtypcbs.com/view.php?share=17641&accesskey=2531b32f0bd15d34d1d7f6f8c30357b9)
+Boards are available from [dirtypcbs.com.](http://dirtypcbs.com/view.php?share=17641&accesskey=2531b32f0bd15d34d1d7f6f8c30357b9)
 
 It also contains spare places to solder pull-up / pull-down resistors.  
-Pull-Up: R5, R8, R12, R14, R15  
+Pull-Up: R5, R8, R12, R14, R16  
 Pull-Down: R6, R7, R13, R15, R17
 
 Resistors (R1, R3, R18, R19, R20) are calculated to get 20mA current at 3.3V supply.  
