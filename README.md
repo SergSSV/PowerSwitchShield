@@ -1,9 +1,9 @@
-Power Switch Shield with S202SE2
+Power Switch Shield with S202S02
 ================================
 
-Simple shield with 2N7002 MOSFET to drive the S202SE2 Solid State Relay.  
-The board is panelized to have two sub-boards with one S202SE2 and also
-a sub-board with three S202SE2.
+Simple shield with 2N7002 MOSFET to drive the S202S02 Solid State Relay.  
+The board is panelized to have two sub-boards with one S202S02 and also
+a sub-board with three S202S02.
 
 ![](https://github.com/susisstrolch/PowerSwitchShield/blob/master/26deed2d59c932266c655a1408c2c5e5-17641_top.png)
 
