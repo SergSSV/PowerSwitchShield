@@ -1,7 +1,7 @@
 Power Switch Shield with S202S02
 ================================
 
-Simple shield with 2N7002 MOSFET to drive the S202S02 Solid State Relay.  
+Simple shield with [2N7002](http://www.nxp.com/documents/data_sheet/2N7002.pdf) MOSFET to drive the [S202S02](http://www.sharpsma.com/webfm_send/303) Solid State Relay.  
 The board is panelized to have two sub-boards with one S202S02 and also
 a sub-board with three S202S02.
 
