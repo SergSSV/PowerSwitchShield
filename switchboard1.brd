@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.1">
+<eagle version="7.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1660,8 +1660,8 @@ Grid 5.08 mm&lt;p&gt;
 <attribute name="VALUE" x="3.175" y="16.51" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R1" library="resistor" package="R0805" value="120" x="11.43" y="6.35" rot="MR270"/>
-<element name="R2" library="resistor" package="R0805" value="1k" x="14.605" y="5.08" rot="MR270"/>
-<element name="X1" library="con-wago-508" package="W237-132" value="" x="16.51" y="16.51" rot="R90">
+<element name="R2" library="resistor" package="R0805" value="330" x="14.605" y="5.08" rot="MR270"/>
+<element name="X1" library="con-wago-508" package="W237-132" value="AKL 055-02" x="16.51" y="16.51" rot="R90">
 <attribute name="OC_NEWARK" value="unknown" x="16.51" y="16.51" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="" x="16.51" y="16.51" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="16.51" y="16.51" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1684,8 +1684,8 @@ Grid 5.08 mm&lt;p&gt;
 <attribute name="VALUE" x="27.305" y="16.51" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R3" library="resistor" package="R0805" value="120" x="36.83" y="6.35" rot="MR270"/>
-<element name="R4" library="resistor" package="R0805" value="1k" x="40.005" y="5.08" rot="MR270"/>
-<element name="X2" library="con-wago-508" package="W237-132" value="" x="41.91" y="16.51" rot="R90">
+<element name="R4" library="resistor" package="R0805" value="330" x="40.005" y="5.08" rot="MR270"/>
+<element name="X2" library="con-wago-508" package="W237-132" value="AKL 055-02" x="41.91" y="16.51" rot="R90">
 <attribute name="OC_FARNELL" value="unknown" x="48.26" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="" x="48.26" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="48.26" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1708,8 +1708,8 @@ Grid 5.08 mm&lt;p&gt;
 <attribute name="VALUE" x="0.635" y="43.815" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R18" library="resistor" package="R0805" value="120" x="8.255" y="31.369" rot="R180"/>
-<element name="R9" library="resistor" package="R0805" value="1k" x="13.97" y="31.269" rot="R180"/>
-<element name="X3" library="con-wago-508" package="W237-132" value="" x="10.795" y="44.45">
+<element name="R9" library="resistor" package="R0805" value="330" x="13.97" y="31.269" rot="R180"/>
+<element name="X3" library="con-wago-508" package="W237-132" value="AKL 055-02" x="10.795" y="44.45">
 <attribute name="OC_FARNELL" value="unknown" x="-0.635" y="38.1" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="-0.635" y="38.1" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="-0.635" y="38.1" size="1.778" layer="27" display="off"/>
@@ -1728,8 +1728,8 @@ Grid 5.08 mm&lt;p&gt;
 <attribute name="VALUE" x="17.145" y="43.815" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R19" library="resistor" package="R0805" value="120" x="24.765" y="31.369" rot="R180"/>
-<element name="R10" library="resistor" package="R0805" value="1k" x="30.099" y="31.369" rot="R180"/>
-<element name="X4" library="con-wago-508" package="W237-132" value="" x="27.305" y="44.45">
+<element name="R10" library="resistor" package="R0805" value="330" x="30.099" y="31.369" rot="R180"/>
+<element name="X4" library="con-wago-508" package="W237-132" value="AKL 055-02" x="27.305" y="44.45">
 <attribute name="OC_FARNELL" value="unknown" x="15.875" y="38.1" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="15.875" y="38.1" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="15.875" y="38.1" size="1.778" layer="27" display="off"/>
@@ -1748,8 +1748,8 @@ Grid 5.08 mm&lt;p&gt;
 <attribute name="VALUE" x="33.02" y="43.815" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="R20" library="resistor" package="R0805" value="120" x="40.64" y="31.369" rot="R180"/>
-<element name="R11" library="resistor" package="R0805" value="1k" x="46.101" y="31.369" rot="R180"/>
-<element name="X5" library="con-wago-508" package="W237-132" value="" x="43.18" y="44.45">
+<element name="R11" library="resistor" package="R0805" value="330" x="46.101" y="31.369" rot="R180"/>
+<element name="X5" library="con-wago-508" package="W237-132" value="AKL 055-02" x="43.18" y="44.45">
 <attribute name="OC_FARNELL" value="unknown" x="31.75" y="38.1" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="31.75" y="38.1" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="31.75" y="38.1" size="1.778" layer="27" display="off"/>

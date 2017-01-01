@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.1">
+<eagle version="7.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -4284,38 +4284,38 @@ Grid 5.08 mm&lt;p&gt;
 <parts>
 <part name="K1" library="relay" deviceset="S2*" device="" technology="02SE2"/>
 <part name="R1" library="resistor" deviceset="R-EU_" device="R0805" value="120"/>
-<part name="R2" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
-<part name="X1" library="con-wago-508" deviceset="W237-02P" device=""/>
+<part name="R2" library="resistor" deviceset="R-EU_" device="R0805" value="330"/>
+<part name="X1" library="con-wago-508" deviceset="W237-02P" device="" value="AKL 055-02"/>
 <part name="Q1" library="adafruit" deviceset="MOSFET-N" device="REFLOW" value="2N7002"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="JP1" library="adafruit" deviceset="PINHD-1X3" device=""/>
 <part name="K2" library="relay" deviceset="S2*" device="" technology="02SE2"/>
 <part name="R3" library="resistor" deviceset="R-EU_" device="R0805" value="120"/>
-<part name="R4" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
-<part name="X2" library="con-wago-508" deviceset="W237-02P" device=""/>
+<part name="R4" library="resistor" deviceset="R-EU_" device="R0805" value="330"/>
+<part name="X2" library="con-wago-508" deviceset="W237-02P" device="" value="AKL 055-02"/>
 <part name="Q2" library="adafruit" deviceset="MOSFET-N" device="REFLOW" value="2N7002"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 <part name="JP2" library="adafruit" deviceset="PINHD-1X3" device=""/>
 <part name="K3" library="relay" deviceset="S2*" device="" technology="02SE2"/>
 <part name="R18" library="resistor" deviceset="R-EU_" device="R0805" value="120"/>
-<part name="R9" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
-<part name="X3" library="con-wago-508" deviceset="W237-02P" device=""/>
+<part name="R9" library="resistor" deviceset="R-EU_" device="R0805" value="330"/>
+<part name="X3" library="con-wago-508" deviceset="W237-02P" device="" value="AKL 055-02"/>
 <part name="Q3" library="adafruit" deviceset="MOSFET-N" device="REFLOW" value="2N7002"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="P+9" library="supply1" deviceset="VCC" device=""/>
 <part name="K4" library="relay" deviceset="S2*" device="" technology="02SE2"/>
 <part name="R19" library="resistor" deviceset="R-EU_" device="R0805" value="120"/>
-<part name="R10" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
-<part name="X4" library="con-wago-508" deviceset="W237-02P" device=""/>
+<part name="R10" library="resistor" deviceset="R-EU_" device="R0805" value="330"/>
+<part name="X4" library="con-wago-508" deviceset="W237-02P" device="" value="AKL 055-02"/>
 <part name="Q4" library="adafruit" deviceset="MOSFET-N" device="REFLOW" value="2N7002"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="P+10" library="supply1" deviceset="VCC" device=""/>
 <part name="K5" library="relay" deviceset="S2*" device="" technology="02SE2"/>
 <part name="R20" library="resistor" deviceset="R-EU_" device="R0805" value="120"/>
-<part name="R11" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
-<part name="X5" library="con-wago-508" deviceset="W237-02P" device=""/>
+<part name="R11" library="resistor" deviceset="R-EU_" device="R0805" value="330"/>
+<part name="X5" library="con-wago-508" deviceset="W237-02P" device="" value="AKL 055-02"/>
 <part name="Q5" library="adafruit" deviceset="MOSFET-N" device="REFLOW" value="2N7002"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="P+11" library="supply1" deviceset="VCC" device=""/>
